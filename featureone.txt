@@ -1,2 +1,7 @@
 Test Feature
+
 Master Added this
+
+Hey I tested the feature out!
+Added New things
+
